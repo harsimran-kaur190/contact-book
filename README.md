@@ -33,7 +33,7 @@ ContactBook/
 1. **Clone the Repository or Download ZIP**
 
 ```bash
-git clone https://github.com/Harsimran-kaur/contact-book.git
+git clone https://github.com/harsimran-kaur190/contact-book.git
 cd contact-book
 ```
 
@@ -64,4 +64,4 @@ python contact_book.py
 ## 👩‍💻 Author
 
 **Harsimran Kaur**  
-📌 [GitHub Profile](https://github.com/Harsimran-kaur)
+📌 [GitHub Profile](https://github.com/harsimran-kaur190)
